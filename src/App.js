@@ -1,5 +1,7 @@
+import UnderstandingBreakpoints from "./Grid/UnderstandingBreakpoints";
+
 function App() {
-  return <div className="App"></div>;
+  return <UnderstandingBreakpoints />;
 }
 
 export default App;
