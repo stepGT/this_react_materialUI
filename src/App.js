@@ -1,7 +1,7 @@
-import FillingSpace from "./Grid/FillingSpace";
+import AbstractingContainersAndItems from "./Grid/AbstractingContainersAndItems";
 
 function App() {
-  return <FillingSpace />;
+  return <AbstractingContainersAndItems />;
 }
 
 export default App;
