@@ -1,7 +1,7 @@
-import UnderstandingBreakpoints from "./Grid/UnderstandingBreakpoints";
+import FillingSpace from "./Grid/FillingSpace";
 
 function App() {
-  return <UnderstandingBreakpoints />;
+  return <FillingSpace />;
 }
 
 export default App;
