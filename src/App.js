@@ -1,7 +1,7 @@
-import AbstractingContainersAndItems from "./Grid/AbstractingContainersAndItems";
+import FixedColumnLayout from "./Grid/FixedColumnLayout";
 
 function App() {
-  return <AbstractingContainersAndItems />;
+  return <FixedColumnLayout />;
 }
 
 export default App;
