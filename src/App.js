@@ -1,7 +1,7 @@
-import FixedColumnLayout from "./Grid/FixedColumnLayout";
+import ColumnDirection from "./Grid/ColumnDirection";
 
 function App() {
-  return <FixedColumnLayout />;
+  return <ColumnDirection />;
 }
 
 export default App;
