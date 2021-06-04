@@ -1,7 +1,7 @@
-import ColumnDirection from "./Grid/ColumnDirection";
+import FixedPosition from "./AppBars/FixedPosition";
 
 function App() {
-  return <ColumnDirection />;
+  return <FixedPosition />;
 }
 
 export default App;
