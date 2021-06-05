@@ -1,7 +1,7 @@
-import FixedPosition from "./AppBars/FixedPosition";
+import AppBarWithButtons from "./AppBars/ScrolledAppBar";
 
 function App() {
-  return <FixedPosition />;
+  return <AppBarWithButtons />;
 }
 
 export default App;
