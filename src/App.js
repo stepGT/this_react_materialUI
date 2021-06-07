@@ -1,7 +1,7 @@
-import AppBarWithButtons from "./AppBars/ScrolledAppBar";
+import ToolbarAbstraction from "./AppBars/MyToolbar";
 
 function App() {
-  return <AppBarWithButtons />;
+  return <ToolbarAbstraction title="Title" />;
 }
 
 export default App;
